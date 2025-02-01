@@ -101,6 +101,9 @@ Below are some images showcasing different pages of the application:
 ### Score Page
 ![Score Page](images/score_page.png)
 
+## Video Walkthrough  
+[![Watch the video](images/video_thumbnail.png)](demo.mp4)  
+
 ## License
 
 This project is licensed under the MIT License.
