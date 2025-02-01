@@ -102,7 +102,7 @@ Below are some images showcasing different pages of the application:
 ![Score Page](images/score_page.png)
 
 ## Video Walkthrough  
-[![Watch the video](images/video_thumbnail.png)](demo.mp4)  
+[![Watch the video](images/home_page.png)](images/demo.mp4)  
 
 ## License
 
